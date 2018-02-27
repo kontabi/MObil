@@ -1,6 +1,9 @@
 import time
 import os
 
+def farig():
+	print("adana")
+
 def top_menu() :
 	print ("###############################################################")
 	print ("#      MObil                   ",time.asctime(),"     #")
