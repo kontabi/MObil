@@ -20,6 +20,7 @@ os_name = os.name
 if os_name == 'posix' :
 	os_clean = "clear"
 
+	
 def copadam_dansi() :
 	time.sleep (2.5)
 	print("\n\n\n\n\n   O ")
